@@ -10,7 +10,7 @@ end
 
 end
 
-countdown_with_sleep(num)
+def countdown_with_sleep(num)
 i=num 
   while i > 0 
     puts"#{i} SECOND(S)!"
